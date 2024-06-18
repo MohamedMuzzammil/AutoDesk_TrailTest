@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/mvnw"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/mvnw.cmd"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/pom.xml"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/spotbugs-exclude.xml"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/.gitignore"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/.java-version"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/BUILDING.adoc"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/CODE_OF_CONDUCT.adoc"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/LICENSE.txt"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/NOTICE.txt"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/README.adoc"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/RELEASE-NOTES.adoc"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/SECURITY.adoc"/>
+	<classpathentry kind="lib" path="C:/Users/Hi/Downloads/apache-log4j-2.23.1-src/.gitattributes"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

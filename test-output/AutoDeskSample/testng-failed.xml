@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AutoDeskSample]" verbose="2">
+  <test name="Test cases(failed)">
+    <classes>
+      <class name="projectFiles.AutoDeskCheckin">
+        <methods>
+          <include name="closeWebsite"/>
+          <include name="getWebsite"/>
+          <include name="checkAutoCad"/>
+        </methods>
+      </class> <!-- projectFiles.AutoDeskCheckin -->
+    </classes>
+  </test> <!-- Test cases(failed) -->
+</suite> <!-- Failed suite [AutoDeskSample] -->

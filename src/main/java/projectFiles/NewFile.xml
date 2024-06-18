@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AutoDeskSample" verbose="2">
+	<test name="Test cases">
+		<classes>
+		 <!--	<class name="projectFiles.AutoDeskLogin"></class> -->
+			<class name="projectFiles.AutoDeskCheckin"></class>
+		</classes>
+	</test>
+</suite>
